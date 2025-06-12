@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "oneproject",
+            "cwd": "oneproject",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "oneproject (profile mode)",
+            "cwd": "oneproject",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "oneproject (release mode)",
+            "cwd": "oneproject",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
